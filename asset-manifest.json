@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/task-10/static/css/main.b9a1a91e.chunk.css",
+    "main.js": "/task-10/static/js/main.34f3aa98.chunk.js",
+    "main.js.map": "/task-10/static/js/main.34f3aa98.chunk.js.map",
+    "runtime-main.js": "/task-10/static/js/runtime-main.7d711fbe.js",
+    "runtime-main.js.map": "/task-10/static/js/runtime-main.7d711fbe.js.map",
+    "static/js/2.2119ba05.chunk.js": "/task-10/static/js/2.2119ba05.chunk.js",
+    "static/js/2.2119ba05.chunk.js.map": "/task-10/static/js/2.2119ba05.chunk.js.map",
+    "index.html": "/task-10/index.html",
+    "precache-manifest.0f3a13a03d1611675439386e45b5a917.js": "/task-10/precache-manifest.0f3a13a03d1611675439386e45b5a917.js",
+    "service-worker.js": "/task-10/service-worker.js",
+    "static/css/main.b9a1a91e.chunk.css.map": "/task-10/static/css/main.b9a1a91e.chunk.css.map",
+    "static/js/2.2119ba05.chunk.js.LICENSE.txt": "/task-10/static/js/2.2119ba05.chunk.js.LICENSE.txt",
+    "static/media/devil.svg": "/task-10/static/media/devil.c58d5048.svg",
+    "static/media/spider.svg": "/task-10/static/media/spider.54e95e63.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d711fbe.js",
+    "static/js/2.2119ba05.chunk.js",
+    "static/css/main.b9a1a91e.chunk.css",
+    "static/js/main.34f3aa98.chunk.js"
+  ]
+}
